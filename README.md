@@ -8,9 +8,4 @@ Superior knowledge of software development methodologies, frameworks, and Softwa
 
 ##
 
-<h3 align="center">I am available now and can start right now.</h3>
-
-![Koda Katsuro's GitHub stats](https://github-readme-stats.vercel.app/api?username=SemAngel&theme=radical&hide_border=true&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemAngel&hide=PHP,html,c&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SemAngel&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<h1 align="center">I am available now and can start right now.</h1>
