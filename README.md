@@ -1,4 +1,6 @@
-### <h2 align="center">Web & Mobile & Blockchain Developer.</h2>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+<h2 align="center">Web & Mobile & Blockchain Developer.</h2>
 
 <p align="center">
   <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
