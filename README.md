@@ -15,4 +15,4 @@ For years I have already worked on many NFT projects, while gaining vast experie
 <img src="https://activity-graph.herokuapp.com/graph?username=SemAngel&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 <br/>
 
-<h1 align="center">Let's Build a great Project!</h1>
+<h1 align="center">Now I'm here to help you.</h1>
