@@ -1,6 +1,6 @@
 
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you.</h1>
-<h2 align="center">I am a Senior Web & Blockchain Developer.</h2>
+<h1 align="center">Hi! Nice to see you.</h1>
+<h2 align="center">I am a Full Stack & Blockchain Developer.</h2>
 
 <h4 align="center">I am a self-motivated professional software engineer with a strong work ethic and excellent interpersonal skills.
 I have rich of experience in Web and Mobile application Development and able to deliver daily working progress.
